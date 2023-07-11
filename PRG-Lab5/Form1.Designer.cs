@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.raceTrack = new System.Windows.Forms.PictureBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.raceControl = new System.Windows.Forms.GroupBox();
             this.btnExit = new System.Windows.Forms.Button();
             this.btnRestart = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
@@ -42,7 +42,7 @@
             this.lblLuffy = new System.Windows.Forms.Label();
             this.lblNaruto = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.raceTrack)).BeginInit();
-            this.groupBox1.SuspendLayout();
+            this.raceControl.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picNaruto)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLuffy)).BeginInit();
             this.SuspendLayout();
@@ -58,18 +58,18 @@
             this.raceTrack.TabIndex = 2;
             this.raceTrack.TabStop = false;
             // 
-            // groupBox1
+            // raceControl
             // 
-            this.groupBox1.BackColor = System.Drawing.SystemColors.Control;
-            this.groupBox1.Controls.Add(this.btnExit);
-            this.groupBox1.Controls.Add(this.btnRestart);
-            this.groupBox1.Controls.Add(this.btnStart);
-            this.groupBox1.Location = new System.Drawing.Point(87, 28);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(617, 143);
-            this.groupBox1.TabIndex = 3;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Race Control";
+            this.raceControl.BackColor = System.Drawing.SystemColors.Control;
+            this.raceControl.Controls.Add(this.btnExit);
+            this.raceControl.Controls.Add(this.btnRestart);
+            this.raceControl.Controls.Add(this.btnStart);
+            this.raceControl.Location = new System.Drawing.Point(87, 28);
+            this.raceControl.Name = "raceControl";
+            this.raceControl.Size = new System.Drawing.Size(617, 143);
+            this.raceControl.TabIndex = 3;
+            this.raceControl.TabStop = false;
+            this.raceControl.Text = "Race Control";
             // 
             // btnExit
             // 
@@ -164,13 +164,13 @@
             this.Controls.Add(this.lblLuffy);
             this.Controls.Add(this.picLuffy);
             this.Controls.Add(this.picNaruto);
-            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.raceControl);
             this.Controls.Add(this.raceTrack);
             this.DoubleBuffered = true;
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.raceTrack)).EndInit();
-            this.groupBox1.ResumeLayout(false);
+            this.raceControl.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picNaruto)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLuffy)).EndInit();
             this.ResumeLayout(false);
@@ -180,7 +180,7 @@
 
         #endregion
         private System.Windows.Forms.PictureBox raceTrack;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox raceControl;
         private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.Button btnRestart;
         private System.Windows.Forms.Button btnStart;

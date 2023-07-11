@@ -121,7 +121,7 @@
   <data name="raceTrack.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+4AAAD+CAYAAACk2l+4AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vQAADr0BR/uQrQAA/7JJREFUeF7s/Xe0ntd13ouKvXcSJIDde6/ft/veaCyqlmyrkaJIkWKv6sW+jn0S
+        vAAADrwBlbxySQAA/7JJREFUeF7s/Xe0ntd13ouKvXcSJIDde6/ft/veaCyqlmyrkaJIkWKv6sW+jn0S
         5zo5Jznn+CSOEymymtUsdhIkAaK3jd5JEL13kGADKVrJnff5re97Nl8hsJw7xv0jf2CPMcda7ypzzbXm
         M+ea6y3f/lCc/jv9d/rv9N/pv9N/p/9O/53+O/13+u/03+m/03+n//6X/Tt9cD/9d/rv9N/pv9N/p/9O
         /53+O/13+u/03+m/03+n//4X/jt9cD/9d/rv9N/pv9N/p/9O/53+O/13+u/03+m/03+n//4X/ksH9507
@@ -9011,7 +9011,7 @@
         /M2bqRsY4LpWJQoDyR4s/b5MPlKNqohE/aKhSDQwOk97+bh9+8SHpn0p5rOGk3El+sQp57RzBwodOx0J
         jBMe/ebGxcbHYIPq+tSzp5JzwJct67Rel4Nk7cZsoGZFIyQl2bdzpS81VlBLXYHI/uKn8e/tun9h5ciu
         0rRewC9FWD0SwYoj+915fmdG05qRt6OFvJtRc25mWBIScVMj7Lku17FH1Ht41LiSUF6A/t1G1qAsop+c
-        3CI70Z5piIiGTGKovLSshjQ+JTJT19bUeZTm5nt/gmuS8QAAAAlwSFlzAAALDgAACw4BQL7hQQAA/pVJ
+        3CI70Z5piIiGTGKovLSshjQ+JTJT19bUeZTm5nt/gmuS8QAAAAlwSFlzAAALDQAACw0B7QfALAAA/pVJ
         REFUeF7s/Q134ka2PQ53fFlEDEQoChqIF+FKiCUT5YoGYYWlRvrR0OAmjGbSF/+d9Hq+/wd59j5VAmz3
         S+ZOOondPsYghN7r7NrnVJ069ex/nuRJnuQvJ0/AfOAyM26JXvskD12egPngpKcxaBjVKt/rEPl6Wy5n
         evsneYjyBMyHILdosapEf/uYXFzqYzzJg5InYP51ZXZJZL0HgfV6pzMcLhbbbZ/S7Xe7/cFgu10shp1O
